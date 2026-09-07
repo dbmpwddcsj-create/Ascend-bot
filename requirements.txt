@@ -1,2 +1,2 @@
-python-telegram-bot>=20.0
-aiohttp
+aiogram>=3.4
+aiohttp>=3.9
